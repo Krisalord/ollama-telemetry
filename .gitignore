@@ -1,0 +1,19 @@
+# SQLite database
+telemetry.db
+telemetry.db-wal
+telemetry.db-shm
+
+# Node.js
+node_modules/
+
+# Build output
+backend/dist/
+frontend/dist/
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
